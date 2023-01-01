@@ -64,7 +64,7 @@ def spacy_summarize(text_content, percent):
     for word in word_frequencies.keys():
         word_frequencies[word] = word_frequencies[word] / max_frequency
 
-    # Save a sentence-tokenized copy of text no way
+    # Save a sentence-tokenized copy of text 
     sentence_token = [sentence for sentence in nlp_object.sents]
 
     # Create the dictionary with key as sentences and value as sum of each important word.
