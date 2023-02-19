@@ -1,4 +1,4 @@
-# YouTube Transcript Summarizer: Flask Back-End Repository
+# YouTube Transcript Summarizer: Flask Back-End Repository.
 ### <i><b>Caution:</b> There is no open source license attached to this repository, which means that you can not copy/make changes without the author's permission. This repository is only for any future improvements or suggestions if someone wants to add to this project.
 ### So, if you are planning to use this repository for your own final year minor/major projects, then, unfortunately, you can not use this repository to submit because it was already submitted by me in the first place. This repository is only made available by me for any improvements you want to add or suggest. If I get to know that someone is using this repository as their project, then, unfortunately I would have to report this "unauthorised copying/project already built scenario" to your university/college.
 ### So, kindly do not fork this repository if you want to use it as your project. This repository is the author's own intellectual property, and it is only made available for the purpose of knowledge-sharing; and not unauthorised ownership.</i>
