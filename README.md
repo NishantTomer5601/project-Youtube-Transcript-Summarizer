@@ -81,4 +81,4 @@ As before mentioned, this back-end repository also hosts the web summmarizer. Th
 #### Feel free to improve this back-end, add comments and ask any queries if you have any.
 
 ##### The back-end uses an undocumented part of the YouTube API, which is called by the YouTube web-client. So there is no guarantee that it would stop working tomorrow, if they change how things work. In case that happens, I will do my best to make things work again as soon as possible if that happens. So if it stops working, let me know!
-##### This is not an official tool from YouTube. I have built this package for my final year project. 
+##### This is not an official tool from YouTube. I have built this package for as my working project only. 
